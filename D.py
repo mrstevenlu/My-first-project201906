@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
 # Filename : 04-random.py
-# author by : Seven Lu
+# author by : Steven Lu
 
 # 目的:
 # 掌握随机的概念
@@ -27,6 +27,6 @@ c = random.uniform(a,b)
 print("在 %f - %f 之间的随机数是：%f" %(a, b, c) )
 
 # 从序列中随机选取一个元素
-d = "tomorrow"
+d = "kjfakfmszsoijfvalirueisbkefkaoiehngvjbuiefeiruhfoaeusrihgrenajkbkvjebiuaghiuerjvhwirowi"
 e = random.choice(d)
 print("在字符串 %s 中随机挑选的字符是：%s" %(d, e)  )
